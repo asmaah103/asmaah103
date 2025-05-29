@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Asmaa
+## Hi there 👋 I'm Asma
 
 This is my real beginning in the world of development — and I couldn’t be more excited!  
 I'm just getting started, but I'm eager to learn, grow, and build meaningful things one line of code at a time. 💻✨
